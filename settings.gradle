@@ -1,0 +1,3 @@
+include ':tagandcardreader'
+include ':app'
+rootProject.name = "TagAndCardReader"
